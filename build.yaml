@@ -18,3 +18,8 @@
 #     artifact-name: corne_left_with_studio
 #
 ---
+include:
+  - board: nrfmicro_11_flipped
+    shield: corne_left
+  - board: nrfmicro_11_flipped
+    shield: corne_right
